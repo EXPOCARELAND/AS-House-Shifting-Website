@@ -150,7 +150,7 @@ p { margin: 0; }
 .brand { display: flex; align-items: center; gap: 10px; }
 .brand img { height: 44px; width: auto; }
 .brand-word { font-family: var(--font-display); font-weight: 700; font-size: 18px; color: var(--ink); line-height: 1.1; }
-.brand-word span { display: block; font-family: var(--font-mono); font-weight: 400; font-size: 10.5px; letter-spacing: 0.1em; color: var(--orange-deep); text-transform: uppercase; }
+.brand-word span { display: block; font-family: var(--font-body); font-weight: 600; font-size: 11px; letter-spacing: 0.01em; color: var(--orange-deep); text-transform: none; }
 
 .main-nav { display: none; }
 .main-nav ul { display: flex; align-items: center; gap: 30px; }
